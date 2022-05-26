@@ -8,8 +8,9 @@
  position: relative;
  width: 200px;
  height: 200px;
- float: left;
- margin-right: 10px;
+ float: center;
+ margin-right: 100px;
+ margin-left: 100px;
 }
 .content {
  display: none;   
