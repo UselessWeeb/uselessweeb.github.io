@@ -2,11 +2,17 @@ html, body {
   height: 100%;
   width: 100%;
 }
-  .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+.center {
+    display: block;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.cards {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
 }
 p {
   font-family: Tahoma ;

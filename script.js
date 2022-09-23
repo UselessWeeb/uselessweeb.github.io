@@ -10,7 +10,7 @@ window.onload = function() {
       if (minute < 0) {
         minute = 4;
         document.getElementById("sample").innerHTML = '<img src="sample2.gif"/> ';
-        document.getElementById("ahug").innerHTML = 'uh oh<br>with such powerful curse I will embed u with the enternal happiness<br>teehee u can not stop me anymore now facing my power of luv 🙆<br> luv u sooo much hun';
+        document.getElementById("ahug").innerHTML = 'uh oh<br>with such powerful curse I will embed u with the enternal happiness<br>teehee u can not stop me anymore<br>didnt I said theres a sooper powerful here ?<br>well facing a beeg hug and luv for u as well as countless compliment cuz u deserve dat 🙆<br> luv u sooo much my cutie pie';
         clearInterval(timer);
         document.getElementById("timer").innerHTML = '';
       }
